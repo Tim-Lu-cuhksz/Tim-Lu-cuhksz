@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tim-Lu-cuhksz
-- 👀 I’m interested in operating systems, federated learning
+- 👀 I’m interested in operating systems, federated learning, and games
 - 🌱 I’m currently learning database systems and vision transformers
 
 
