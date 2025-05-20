@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tim-Lu-cuhksz
-- 👀 I’m interested in reinforcement learning, and games
+- 👀 I’m interested in reinforcement learning and games
 - 🌱 I’m currently learning langchain
 
 <!---
